@@ -1,1 +1,1 @@
-Hello, Welcome to Normal text changed on dev branch
+Hello, Welcome to Normal text changed on dev branch  --changed
